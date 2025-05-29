@@ -1,0 +1,17 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "background.fullscreen": {
+    "useFront": true,
+    "style": {
+      "background-position": "100% 100%",
+      "background-size": "auto",
+      "opacity": 0.6
+    },
+    "styles": [{}, {}, {}],
+    // Local images can be dragged into the browser to quickly get the file protocol address from the address bar
+    "images": ["https://files.codelife.cc/wallhaven/full/57/wallhaven-571998.png","https://files.codelife.cc/wallhaven/full/y8/wallhaven-y8zr5g.png"],
+    "interval": 100,
+    "random": false
+  },
+  "cmake.sourceDirectory": "D:/Works/Code/C-Plus-Plus-master/machine_learning"
+}

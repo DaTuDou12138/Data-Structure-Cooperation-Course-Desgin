@@ -7,9 +7,14 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
+                "-finput-charset=UTF-8",
+                "-fexec-charset=GBK",
                 "${file}",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "-L",  // 在库文件的搜索路径列表中添加dir目录，
+                "C:\\TDM-GCC-64\\lib",
+                "-leasyx"
             ],
             "options": {
                 "cwd": "${fileDirname}"
