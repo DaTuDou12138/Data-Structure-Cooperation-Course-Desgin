@@ -1,0 +1,41 @@
+﻿  main.cpp
+D:\Works\Code\Data Structure\CourseDesgin\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Works\Code\Data Structure\CourseDesgin\LNode.h(37,9): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“main.cpp”)
+  
+D:\Works\Code\Data Structure\CourseDesgin\BinaryTree.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\Works\Code\Data Structure\CourseDesgin\BinaryTree.h(95,111): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Works\Code\Data Structure\CourseDesgin\BinaryTree.h(140,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“main.cpp”)
+  
+D:\Works\Code\Data Structure\CourseDesgin\BinaryTree.h(149,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“main.cpp”)
+  
+D:\Works\Code\Data Structure\CourseDesgin\BinaryTree.h(155,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“main.cpp”)
+  
+D:\Works\Code\Data Structure\CourseDesgin\BinaryTree.h(167,74): warning C4474: printf: 格式字符串中传递的参数太多
+  (编译源文件“main.cpp”)
+      D:\Works\Code\Data Structure\CourseDesgin\BinaryTree.h(167,74):
+      占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  
+D:\Works\Code\Data Structure\CourseDesgin\BinaryTree.h(170,80): warning C4474: printf: 格式字符串中传递的参数太多
+  (编译源文件“main.cpp”)
+      D:\Works\Code\Data Structure\CourseDesgin\BinaryTree.h(170,80):
+      占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  
+D:\Works\Code\Data Structure\CourseDesgin\menu.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\Works\Code\Data Structure\CourseDesgin\main.cpp(32,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Works\Code\Data Structure\CourseDesgin\main.cpp(39,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Works\Code\Data Structure\CourseDesgin\main.cpp(45,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Works\Code\Data Structure\CourseDesgin\main.cpp(51,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Works\Code\Data Structure\CourseDesgin\main.cpp(23,1): warning C4700: 使用了未初始化的局部变量“QuestionOfferData”
+D:\Works\Code\Data Structure\CourseDesgin\BinaryTree.h(162,1): warning C4700: 使用了未初始化的局部变量“Result”
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: 无法解析的外部符号 WinMain，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\Works\Code\Data Structure\CourseDesgin\x64\Debug\CourseDesign.exe : fatal error LNK1120: 1 个无法解析的外部命令

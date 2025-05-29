@@ -1,0 +1,24 @@
+﻿  main.cpp
+D:\Works\Code\Data Structure\CourseDesgin\LNode.h(38,9): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“main.cpp”)
+  
+D:\Works\Code\Data Structure\CourseDesgin\BinaryTree.h(95,111): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Works\Code\Data Structure\CourseDesgin\BinaryTree.h(140,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“main.cpp”)
+  
+D:\Works\Code\Data Structure\CourseDesgin\BinaryTree.h(149,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“main.cpp”)
+  
+D:\Works\Code\Data Structure\CourseDesgin\BinaryTree.h(155,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“main.cpp”)
+  
+D:\Works\Code\Data Structure\CourseDesgin\menu.h(15,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“main.cpp”)
+  
+D:\Works\Code\Data Structure\CourseDesgin\BinaryTree.h(162,1): warning C4700: 使用了未初始化的局部变量“Result”
+D:\Works\Code\Data Structure\CourseDesgin\main.cpp(23,1): warning C4700: 使用了未初始化的局部变量“QuestionOfferData”
+D:\Works\Code\Data Structure\CourseDesgin\main.cpp(23,1): warning C4700: 使用了未初始化的局部变量“NewData”
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/OPT:ICF”规范)
+  CourseDesign.vcxproj -> D:\Works\Code\Data Structure\CourseDesgin\x64\Release\CourseDesign.exe
